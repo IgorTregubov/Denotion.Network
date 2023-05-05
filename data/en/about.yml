@@ -2,12 +2,12 @@ enable  : true
 bigtitle : Ideas
 item    :
   - positionRight : false
-    image : images/about/about-1.gif
+    image : images/about/about-1.webm
     title : Denotion.Network
     description : >
         Human friendly notation and computation engine. Develops ideas of symbolic computations such as Lisp Prolog and Kanren. Designed for the most flexible description of relationships between entities. Descriptions of business logic algorithms and all dependencies in an understandable way. Automatic data analysis, correction and upgrade.
   - positionRight : true
-    image : images/about/about-2.jpg
+    image : images/about/about-2.webp
     title : App without OOP design
     description : |
         Experimental app. Keep SOLID princepes but not using OOP design. 

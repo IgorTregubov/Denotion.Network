@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Denotion.Network"
 theme = "navigator-hugo"
 summaryLength = 10
+disableHugoGeneratorInject = true
 
 # Build robots.txt file
 enableRobotsTXT = true
@@ -14,14 +15,28 @@ pygmentsCodeFences = true
 
 # Multilangues setup
 # Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 DefaultContentLanguage = "en"
 
 markdownFilePath = "./content/cv/limitations_limitations.md"
+disableKinds = ["RSS"]
 
 # Site Params
 [params]
 logo = "images/logo.png"
+disableHugoGeneratorInject = true
+disableGeneratorVersion = true
+
+disableSearch = true
+disableSearchHiddenPages = true
+disableSeoHiddenPages = true
+disableTagHiddenPages = true
+disableAssetsBusting = true
+disableLandingPageButton = true
+disableToc = true
+disableMathJax = true
+disableMermaid = false
+disableSwagger = false
 
 # Gestion des langues : FR / EN / NL / DE
 [[Params.listeLangues]]
@@ -56,9 +71,9 @@ footerSubscribeTitle = "-"
 [Languages.en.params.hero]
 enable = true
 heading = "Denotion.Network"
-description = "Software in the world where everything is interconnected"
-detaileddescription = "----------"
-videoThumb = "images/slider/logoBig.png"
+description = "Software in the world where everything is interconnected."
+detaileddescription = "There is nothing \"solid\" in the world, the world is a dance of interacting dynamic processes than only sometimes are hierarchically connected. By choosing the \"observation quantum\" we obtain a lot of stable unstable periods and transactions between them. Outside the specific stable state of a given microprocess, its description can change in the most bizarre way, becoming directly opposite to the current one. And it is impossible to have the same description for each sub-process for all the time we are interested in solving the problem. Each \"object\" need to have more than one description. Also each process need to have more than one transaction descriptions. The graph structure Denotion.Network is designed provide multiple description and computation levels to cover application tasks."
+videoThumb = "images/slider/logoBig.webp"
 
 # About 2 Section
 [Languages.en.params.aboutSm]
@@ -110,7 +125,7 @@ languageCode = "en-us"
 title = "Denotion.Network"
 dateFormat = "2 January 2006"
 
-home = "Home"
+home = "ראשי"
 logo = "images/logo.png"
 menufixed = false
 dir = "rtl"
@@ -125,9 +140,9 @@ footerSubscribeTitle = "-"
 [Languages.he.params.hero]
 enable = true
 heading = "Denotion.Network"
-description = "תוכנה בעולם שבה הכל קשור"
-detaileddescription = "----------"
-videoThumb = "images/slider/logoBig.png"
+description = "תוכנה בעולם שבה הכל קשור."
+detaileddescription = "אין שום דבר \"מוצק\" בעולם, העולם הוא ריקוד של תהליכים דינמיים המקיימים אינטראקציה מאשר רק לפעמים קשורים היררכית. על ידי בחירה ב\"קוונטי התצפית\" אנו מקבלים הרבה תקופות לא יציבות ועסקאות ביניהן. מחוץ למצב היציב הספציפי של מיקרו-תהליך נתון, התיאור שלו יכול להשתנות בצורה המוזרה ביותר, ולהיות מנוגד ישירות לזה הנוכחי. ואי אפשר לקבל את אותו תיאור לכל תת-תהליך במשך כל הזמן בו אנו מעוניינים לפתור את הבעיה. לכל \"אובייקט\" צריך להיות יותר מתיאור אחד. כמו כן, לכל תהליך צריך להיות יותר מתיאור עסקה אחד. מבנה הגרף Denotion.Network תוכנן לספק מספר רמות תיאור וחישוב לכיסוי"
+videoThumb = "images/slider/logoBig.webp"
 
 # About 2 Section
 [Languages.he.params.aboutSm]

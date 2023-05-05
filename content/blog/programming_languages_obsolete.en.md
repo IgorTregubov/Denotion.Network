@@ -2,7 +2,7 @@
 title = "Are programming languages obsolete ?"
 date = 2023-04-26T22:30:46+03:00
 draft = false
-image = "images/blog/programming_languages_obsolete_thumbnail.png"
+image = "images/blog/programming_languages_obsolete_thumbnail.webp"
 +++
 
 Modern high-level programming languages were introduced and widely adopted in the early 60s, after a serious miscalculation in programming technology was made. However, despite a significant increase in CPU speed of more than six orders of magnitude, the productivity of programmers increased only slightly. This was due to a number of characteristics of modern programming languages that have not yet been overcome.

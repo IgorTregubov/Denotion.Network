@@ -2,7 +2,7 @@
 title = "Programming is difficult"
 date = 2023-04-05T22:30:46+03:00
 draft = false
-image = "images/blog/programming_is_difficult_thumbnail.png"
+image = "images/blog/programming_is_difficult_thumbnail.webp"
 +++
 
 Complexity can be defined as the degree of heterogeneity of a system. If the components of the system are diverse, and the connections between them are varied, then the complexity of such a system is higher. The complexity of the universe, consisting of identical bricks, is equal to the complexity of a single brick and its connections with neighboring bricks (the complexity reduction theorem). Therefore, complexity expresses not the mass-energy characteristics of the world (see E = mc2), but its structural properties, which can be very rich and general.

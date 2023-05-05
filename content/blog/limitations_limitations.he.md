@@ -2,7 +2,7 @@
 title = "מגבלות, מגבלות"
 date = 2023-04-19T22:30:46+03:00
 draft = false
-image = "images/blog/limitations_thumbnail.png"
+image = "images/blog/limitations_thumbnail.webp"
 +++
 
 # המגבלות של הבנה טבעית.

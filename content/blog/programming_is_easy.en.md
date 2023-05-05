@@ -2,7 +2,7 @@
 title = "Programming is easy"
 date = 2023-04-12T22:30:46+03:00
 draft = false
-image = "images/blog/programming_is_easy_thumbnail.png"
+image = "images/blog/programming_is_easy_thumbnail.webp"
 +++
 
 I deceived you. Programming is easy. Yes, software developers have written huge mountains of documents on clean code, software development paradigms, argue about the validity of the 'if' operator, and make jokes about 'for' loops. Entire forests of books call on you to write code better, cleaner, more efficiently, and more safely. All of this is no longer necessary. Automation systems for writing code are taking the stage.
