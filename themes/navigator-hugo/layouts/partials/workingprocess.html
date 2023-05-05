@@ -1,0 +1,54 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.workingprocess }}
+    {{ if .enable }}
+    {{ "<!-- Work Process Section Start -->" | safeHTML }}
+    <section class="service-2 section bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="title text-center">
+                        {{ with .topTitle }}
+                            <h4>{{ . }}</h4>
+                        {{ end }}
+                        {{ with .title }}
+                            <h2>{{ . }}</h2>
+                            <span class="border"></span>
+                        {{ end }}
+                        {{ with .subtitle }}
+                            <p>{{ . }}</p>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                {{ range $index,  $element:= .item }}
+                    <div class="col-md- col-sm-6 p-0">
+					        {{ with .company_description }}
+                                <h10>{{ . }}</h10>
+                            {{ end }}
+                        <div class="service-item text-center">
+
+                            {{ with .job_description1 }}
+                                <h10>{{ . }}</h10>
+                            {{ end }}
+							{{ with .description1 }}
+                                <p>{{ . }}</p>
+                            {{ end }}
+							{{ with .job_description2 }}
+                                <h10>{{ . }}</h10>
+                            {{ end }}
+                            {{ with .description2 }}
+                                <p>{{ . }}</p>
+                            {{ end }}
+                        </div>
+                    </div>
+
+                        <div class="w-100"></div>
+
+                {{ end }}
+            </div>
+        </div>
+    </section>
+    {{ "<!-- Work Process section end -->" | safeHTML }}
+    {{ end }}
+{{ end }}

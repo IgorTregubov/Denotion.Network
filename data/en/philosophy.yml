@@ -1,0 +1,55 @@
+enable    : true
+topTitle  : Ihor Trehubov
+title     : 
+subtitle  : Experienced engineer with a passion for creating high-quality applications. Proficient in a range of technologies, including various programming languages, platforms for software development verification and deployment. App analytics monitoring and marketing.  Constantly seeking new approaches to achieve client goals with improved efficiency and quality. Open to challenging role in a dynamic company that values consistency and encourage innovations.
+tabItem   :
+  - id        : skills
+    title     : Skills
+    content   : |
+        - **Programming languages and databases** : Python, Java, C++, C#,  Obj-C, SQL Server, MySQL.  
+        - **Platforms** : Google Analytics and Firebase, Facebook, Appsflyer, Solitics, Jenkins, Cocos 2DX.  
+        - **Languages** : English, Hebrew, Russian, Ukrainian.  
+        - **Operating systems** : Android, IOS, Linux.  
+        - Actively using Agile/Scrum methodologies and tools: Jira, Workday, Trello, Slack.  
+        - Excellent problem-solving and analytical skills.  
+        - Strong collaboration and communication skills.  
+        - Experience in remote software testing and debugging.
+
+  - id        : education
+    title     : Education
+    content   : |
+        **09.2001 – 07.2005 Vinnitsa National Technical University, Ukraine**  
+        Bachelor degree in  Computer Systems  
+        **09.2005 – 07.2006 Vinnitsa National Technical University, Ukraine**  
+        Master’s degree: Information Protection
+
+  - id        : history
+    title     : Work history
+    content   : |
+        - **Software Developer at Delphi Software - 08.2017 - 07.2021**
+        ---
+        **Cerence Automotive Platform -  In-car voice assistant**
+        - Maintaining embedded application fronted using Dragon Speech Recognition Platform.
+        - Implemented assets deployment from cloud storage.
+        - Added continuous automated testing on commit and by schedule.
+        - Stability and performance improvements on remote hardware.
+        ---
+        **24option.com fx & cfd trading - Online trading**
+        - Created hybrid (Native + Web)android app from scratch.
+        - UI verification on multiple devices. Manage app store publishing.
+        - Integrated 3rd party solutions for app analytics monitoring and marketing.
+        ---
+        - **Software Developer at Win Interactive LLC - 01.2010 - 08.2017**
+        ---
+        **BWin Casino Android / IOS app for online gambling trading**
+        - Native casino apps IOS and Android are created from scratch.
+        - Implemented in app banner system to invite users to new games that doubled retention.
+        ---
+        **Crown Bet - Online sports betting platform**
+        - Optimized database load by implementing pagination.
+        - Front-end / back-end development.
+        - Testing automation.
+        ---
+        **888 Poker - Online poker room**
+        - Snap poker feature: fast-fold game format when user is actively transferred between tables to minimize wait time and increase number of bets.
+        - Full documentation and visualizing of a project codebase and business logic to streamline the code and prepare for future development.

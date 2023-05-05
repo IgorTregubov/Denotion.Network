@@ -1,0 +1,28 @@
+[about]
+other = "תיק עבודות"
+[aboutsm]
+other = "על אודות"
+[service]
+other = "שירות"
+[portfolio]
+other = "תיק עבודות"
+[blog]
+other = "בלוג"
+[contact]
+other = "איש קשר"
+[philosophy]
+other = "פילוסופיה"
+
+[graphicdesign]
+other = "עיצוב גרפי"
+[webdesign]
+other = "עיצוב אתרים"
+[webdevelopment]
+other = "בניית אתרים"
+
+[partners]
+other = "שותפים"
+[faqs]
+other = "שאלות נפוצות"
+[badges]
+other = "תגים"

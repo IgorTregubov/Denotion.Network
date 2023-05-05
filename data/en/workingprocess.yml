@@ -1,0 +1,30 @@
+enable  : true
+topTitle: HOW WE WORKS
+title   : Our Work Process
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+item    :
+  - company_description  : Software developer at Delphi Software 08.2017 - 07.2021
+    job_description1   : Cerence Automotive Platform -  In-car voice assistant
+    description1 : |
+       Maintaining embedded application fronted using Dragon Speech Recognition Platform.
+       Implemented assets deployment from cloud storage.
+       Added continuous automated testing on commit and by schedule.
+       Stability and performance improvements on remote hardware.
+      
+    job_description2   : 24option.com fx & cfd trading - Online trading
+    description2 : >
+        - Created hybrid (Native + Web)android app from scratch.
+        - UI verification on multiple devices. Manage app store publishing.
+        - Integrated 3rd party solutions for app analytics monitoring and marketing.
+        
+  - company_description  : Software developer at Win Interactive LLC 01.2014 – 08.2017
+    job_description1   : BWin Casino - Android / IOS app for online gambling
+    description1 : >
+        - Native casino apps IOS and Android are created from scratch.
+        - Implemented in app banner system to invite users to new games that doubled retention.
+      
+    job_description2   : Crown Bet - Online sports betting platform
+    description2 : >
+        - Optimized database load by implementing pagination.
+        - Front-end / back-end development.
+        - Testing automation.

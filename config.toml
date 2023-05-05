@@ -1,0 +1,229 @@
+baseURL = "https://denotion.net/"
+languageCode = "en-us"
+title = "Denotion.Network"
+theme = "navigator-hugo"
+summaryLength = 10
+
+# Build robots.txt file
+enableRobotsTXT = true
+# google analytics tracking id
+googleAnalytics = "" # your analitics ID
+
+enableGitInfo = false
+pygmentsCodeFences = true
+
+# Multilangues setup
+# Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
+defaultContentLanguageInSubdir = true
+DefaultContentLanguage = "en"
+
+markdownFilePath = "./content/cv/limitations_limitations.md"
+
+# Site Params
+[params]
+logo = "images/logo.png"
+
+# Gestion des langues : FR / EN / NL / DE
+[[Params.listeLangues]]
+code = "en"
+[[Params.listeLangues]]
+code = "he"
+
+# meta data
+author = "Ihor Trehubov"
+description = "Personal blog"
+
+# Gestion des langues : FR / EN / NL / DE
+[Languages]
+############ 1 - Site on english
+[Languages.en]
+weight = 1
+languageCode = "en-us"
+title = "Denotion.Network"
+dateFormat = "2 January 2006"
+
+home = "Home"
+logo = "images/logo.png"
+menufixed = false
+
+footerDescription = "-"
+footerServiceTitle = "-"
+footerQuicklinkTitle = "-"
+footerAboutTitle = "-"
+footerSubscribeTitle = "-"
+
+# Hero Area Section
+[Languages.en.params.hero]
+enable = true
+heading = "Denotion.Network"
+description = "Software in the world where everything is interconnected"
+detaileddescription = "----------"
+videoThumb = "images/slider/logoBig.png"
+
+# About 2 Section
+[Languages.en.params.aboutSm]
+enable = true
+title = "About author"
+description = ""
+
+# Blog Section On Homepage
+[Languages.en.params.blog]
+enable = true
+topTitle = "software development thougths"
+title = "Blog"
+subtitle = ""
+
+# Contact Section
+[Languages.en.params.contact]
+enable = true
+topTitle = "DROP A NOTE"
+title = "Contacts"
+subtitle = "Please do not hesitate to contact me regarding quentions thougths and proposals"
+location_label = "Location"
+call_label = "Call"
+social_label = "Social"
+address = "Kiryat Ata, Haifa, Israel"
+phone = "0533727500"
+whatsapp = "0533727500"
+email = "mailto:trehubov@denotion.net"
+facebook = "https://www.facebook.com/"
+twitter = "https://twitter.com/"
+linkedin = "hhttps://www.linkedin.com/in/igor-tregubov/"
+github = "https://github.com/IgorTregubov"
+instagram = "https://www.instagram.com/"
+mapLatitude = "51.507351"
+mapLongitude = "-0.127758"
+mapMarker = "images/marker.png"
+
+# Call to Action Section on About Page
+[Languages.en.params.cta]
+enable = true
+bg = "images/call-to-action/call-to-action-bg-2.jpg"
+title = "FRANCAIS Let's Create Something Together"
+subtitle = "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+btnText = "Nous contacter"
+
+############# 2 - Site in Hebrev
+[Languages.he]
+weight = 1
+languageCode = "en-us"
+title = "Denotion.Network"
+dateFormat = "2 January 2006"
+
+home = "Home"
+logo = "images/logo.png"
+menufixed = false
+dir = "rtl"
+
+footerDescription = "-"
+footerServiceTitle = "-"
+footerQuicklinkTitle = "-"
+footerAboutTitle = "-"
+footerSubscribeTitle = "-"
+
+# Hero Area Section
+[Languages.he.params.hero]
+enable = true
+heading = "Denotion.Network"
+description = "תוכנה בעולם שבה הכל קשור"
+detaileddescription = "----------"
+videoThumb = "images/slider/logoBig.png"
+
+# About 2 Section
+[Languages.he.params.aboutSm]
+enable = true
+title = "מחבר"
+description = "איחור טרהובוב. מהנדס מנוסה עם תשוקה ליצור אפליקציות באיכות גבוהה. בקיא במגוון טכנולוגיות, לרבות שפות תכנות שונות, פלטפורמות לאימות פיתוח תוכנה ופריסה. ניטור ושיווק ניתוח אפליקציות. מחפש כל הזמן גישות חדשות להשגת יעדי הלקוח עם שיפור ביעילות ואיכות. פתוח לתפקיד מאתגר בחברה דינמית שמעריכה עקביות ומעודדת חידושים"
+
+# Blog Section On Homepage
+[Languages.he.params.blog]
+enable = true
+topTitle = "רעיונות לפיתוח תוכנה"
+title = "בלוג"
+subtitle = ""
+
+# Contact Section
+[Languages.he.params.contact]
+enable = true
+topTitle = "רשום הערה"
+title = "אנשי קשר"
+subtitle = "אנא אל תהססו לפנות אלי בנוגע לשאלות מחשבות והצעות"
+location_label = "מקום"
+call_label = "שיחה"
+social_label = "חברתי"
+address = "קרית אתא, חיפה, ישראל"
+phone = "0533727500"
+whatsapp = "0533727500"
+email = "mailto:trehubov@denotion.net"
+facebook = "https://www.facebook.com/"
+twitter = "https://twitter.com/"
+linkedin = "hhttps://www.linkedin.com/in/igor-tregubov/"
+github = "https://github.com/IgorTregubov"
+instagram = "https://www.instagram.com/"
+mapLatitude = "51.507351"
+mapLongitude = "-0.127758"
+mapMarker = "images/marker.png"
+
+# Call to Action Section on About Page
+[Languages.he.params.cta]
+enable = true
+bg = "images/call-to-action/call-to-action-bg-2.jpg"
+title = "בואו ניצור משהו ביחד"
+subtitle = "---"
+btnText = "---"
+
+
+# We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
+
+# Site Menus
+[menu]
+
+# Navbar Menus
+[[menu.nav]]
+name = "blog"
+url = "blog/"
+weight = 1
+[[menu.nav]]
+name = "about"
+url = "about/"
+weight = 2
+[[menu.nav]]
+name = "philosophy"
+url = "philosophy/"
+weight = 3
+[[menu.nav]]
+name = "contact"
+url = "contact/"
+weight = 4
+
+# Footer Service Menu
+[[menu.service]]
+name = "graphicdesign"
+url = "service/"
+weight = 1
+[[menu.service]]
+name = "webdesign"
+url = "service/"
+weight = 2
+[[menu.service]]
+name = "webdevelopment"
+url = "service/"
+weight = 3
+
+# Footer Quick links Menu
+[[menu.quicklink]]
+name = "partners"
+url = "about/"
+weight = 1
+[[menu.quicklink]]
+name = "about"
+url = "about/"
+weight = 2
+[[menu.quicklink]]
+name = "faqs"
+url = "about/"
+weight = 3
+[[menu.quicklink]]
+name = "badges"
+url = "about/"
+weight = 4

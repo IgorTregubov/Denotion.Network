@@ -1,0 +1,11 @@
+enable  : true
+item    :
+  - positionRight : false
+    image : images/about/about-1.gif
+    title : ---
+    description : 
+
+  - positionRight : true
+    image : images/about/about-2.jpg
+    title : ---
+    description : 

@@ -1,0 +1,14 @@
++++
+title = "Are programming languages obsolete ?"
+date = 2023-04-26T22:30:46+03:00
+draft = false
+image = "images/blog/programming_languages_obsolete_thumbnail.png"
++++
+
+Modern high-level programming languages were introduced and widely adopted in the early 60s, after a serious miscalculation in programming technology was made. However, despite a significant increase in CPU speed of more than six orders of magnitude, the productivity of programmers increased only slightly. This was due to a number of characteristics of modern programming languages that have not yet been overcome.
+
+There are many secondary characteristics of modern programming languages. And you can start a lot of arguments about the advantages of C over Pascal, Java over C ++, JavaScript over Python, etc. However, all these discussions are useless, since the very principle of modern NEDs is vicious. Instead of being tools for learning, recording, accumulating and expanding human experience in specific subject areas, HDLs are cumbersome, inconsistent, ridiculous and limited notation systems created mainly for the convenience of compiler developers. The work of ANSI and ISO on the standardization of NDL is also useless, since it is analogous to campaigns to restore order in the world of molecular chaos of ideas, approaches and principles for the development of NDL. The meaning of the existing NEDs is not in the guaranteed solution of real problems in the desired time frame, but in the creation of systems to ensure the random wandering of the programmer in the state space of the problem being solved. All existing NEDs were created on the basis of logically unsubstantiated "insights" of their developers by various types of titanic ideas, completely ignoring the essence of the problems that arise when solving serious problems.
+
+Even if we ignore the complexity of the semantics of DL, their non-orthogonality, inconsistency and problems with tools, then all DL have one more common drawback - terrible syntax. Even though we are already used to complex character combinations like ((((((((())))))))) in Lisp, *++->+= in C/C++, := @= in Pascal and so on, we do not ask ourselves the question: what is all this for? Pascal and C, for example, are semantically almost identical in 95% of their capabilities and do not have any advantages over each other, which makes them equally good or bad languages. Despite the 30-year history of Java, they still don't come close to solving any of the problems that arise in the course of programming. In addition, with the advent of object-oriented programming, the problem of bugs in programs has only worsened, and any knowledgeable person will tell you that debugging object-oriented programs is much more difficult than regular procedural ones.
+
+Thus, the question of the relevance of programming languages does not lose relevance.

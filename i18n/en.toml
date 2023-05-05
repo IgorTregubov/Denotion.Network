@@ -1,0 +1,28 @@
+[about]
+other = "Portfolio"
+[aboutsm]
+other = "About"
+[service]
+other = "Service"
+[portfolio]
+other = "Portfolio"
+[blog]
+other = "Blog"
+[contact]
+other = "Contact"
+[philosophy]
+other = "Philosophy"
+
+[graphicdesign]
+other = "Graphic Design"
+[webdesign]
+other = "Web Design"
+[webdevelopment]
+other = "Web Development"
+
+[partners]
+other = "Partners"
+[faqs]
+other = "FAQ's"
+[badges]
+other = "Badges"
