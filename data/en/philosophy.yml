@@ -6,14 +6,13 @@ tabItem   :
   - id        : skills
     title     : Skills
     content   : |
-        - **Programming languages and databases** : Python, Java, C++, C#,  Obj-C, SQL Server, MySQL.  
-        - **Platforms** : Google Analytics and Firebase, Facebook, Appsflyer, Solitics, Jenkins, Cocos 2DX.  
-        - **Languages** : English, Hebrew, Russian, Ukrainian.  
-        - **Operating systems** : Android, IOS, Linux.  
-        - Actively using Agile/Scrum methodologies and tools: Jira, Workday, Trello, Slack.  
-        - Excellent problem-solving and analytical skills.  
-        - Strong collaboration and communication skills.  
-        - Experience in remote software testing and debugging.
+        - **Native programming languages** : C++, C#, Objective-C,  Java, Python,
+        - **Databases and data modeling** : Microsoft SQL Server, MySQL, MongoDB.
+        - **Deploy applications using CI/CD tools** :  Jenkins, GitHub, TeamCity, Artifactory.
+        - In-depth knowledge of data structures and algorithms.
+        - Experience with software development methodologies, patterns and best practices.
+        - Actively using Agile/Scrum methodologies. Effective independent and in a team environment. 
+        - Experience in performance optimization, remote debugging and testing automation.
 
   - id        : education
     title     : Education
@@ -26,29 +25,33 @@ tabItem   :
   - id        : history
     title     : Work history
     content   : |
-        - **Software Developer at Delphi Software - 08.2017 - 07.2021**
+        - **Freelance software developer 03.2022 - 2023**
+        ---
+        - Python chatbots for customer support, virtual assistants, and e-commerce.
+        - Integrating with backend and databases. Optimisation and usage monitoring.
+        ---
+        - **Software Developer at Delphi Software - 08.2017 - 02.2022**
         ---
         **Cerence Automotive Platform -  In-car voice assistant**
-        - Maintaining embedded application fronted using Dragon Speech Recognition Platform.
-        - Implemented assets deployment from cloud storage.
+        - Developing embedded application fronted using Dragon Speech Recognition Platform.
+        - Maintaining low level network infrastructure framework.
+        - Implemented assets deployment from cloud storage. 
         - Added continuous automated testing on commit and by schedule.
-        - Stability and performance improvements on remote hardware.
         ---
         **24option.com fx & cfd trading - Online trading**
-        - Created hybrid (Native + Web)android app from scratch.
+        - Created hybrid (Native + Web) android app from scratch.
         - UI verification on multiple devices. Manage app store publishing.
         - Integrated 3rd party solutions for app analytics monitoring and marketing.
         ---
         - **Software Developer at Win Interactive LLC - 01.2010 - 08.2017**
         ---
         **BWin Casino Android / IOS app for online gambling trading**
-        - Native casino apps IOS and Android are created from scratch.
+        - IOS and Android native apps are created from scratch using Cocos 2Dx C++ framework.
         - Implemented in app banner system to invite users to new games that doubled retention.
         ---
         **Crown Bet - Online sports betting platform**
-        - Optimized database load by implementing pagination.
-        - Front-end / back-end development.
-        - Testing automation.
+        - Creating Business Process Management software for internal use.
+        - Database and stored procedure optimisation. Data integration and migration.
         ---
         **888 Poker - Online poker room**
         - Snap poker feature: fast-fold game format when user is actively transferred between tables to minimize wait time and increase number of bets.
